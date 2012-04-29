@@ -10,7 +10,7 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : Cold Hard Facts
-tagline:
+tagline: A blog, or something
 author :
   name : Martin O'Leary
   email : m.e.w.oleary@gmail.com
