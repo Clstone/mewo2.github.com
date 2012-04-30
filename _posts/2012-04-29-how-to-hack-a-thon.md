@@ -57,6 +57,10 @@ When I woke up six hours later, I found that with one minute and sixteen seconds
 
 The code I used, in all its hacky glory, is available on [GitHub][github]. Feel free to gawp and stare, but please don't send me any bug reports.
 
+#### Postscript
+
+It turns out that the two-to-one mix I chose for the final blend is damn near close to optimal. Experimenting after the deadline, I see that I can improve the score by 0.00007 by switching to a five-to-two blend, but two-to-one beats everything simpler. Score one for blind intuition.
+
 [hackathon]: https://www.kaggle.com/c/dsg-hackathon
 [kaggle]: http://www.kaggle.com/
 [github]: https://github.com/mewo2/airquality
