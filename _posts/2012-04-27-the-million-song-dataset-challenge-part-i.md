@@ -2,7 +2,7 @@
 layout: post
 title: "The Million Song Dataset Challenge: Part I"
 description: "In which our intrepid hero boggles at too much data, and calculates some correlations"
-category: Kaggle
+category: kaggle
 tags: [msd-challenge]
 ---
 {% include JB/setup %}

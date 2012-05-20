@@ -2,7 +2,7 @@
 layout: post
 title: "How to Hack a Thon"
 description: ""
-category: Kaggle
+category: kaggle
 tags: [hackathon]
 ---
 {% include JB/setup %}

@@ -2,7 +2,7 @@
 layout: post
 title: "I've got Eurosong fever, Ted"
 description: ""
-category: Nerdery
+category: nerdery
 tags: [eurovision, mcmc]
 ---
 {% include JB/setup %}
