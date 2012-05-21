@@ -123,7 +123,7 @@ There are a few obvious ways that this could be improved. It wouldn't be hard to
 
 [no09]: http://www.youtube.com/watch?v=fBFFlL58UTM
 [ua04]: http://www.youtube.com/watch?v=10XR67NQcAc
-[rs04]: http://www.youtube.com/watch?v=10XR67NQcAc
+[rs04]: http://www.youtube.com/watch?v=z7OvpjplJ_8
 [gr04]: http://www.youtube.com/watch?v=asZwDUTEXls
 [fi06]: http://www.youtube.com/watch?v=gAh9NRGNhUU
 [cz09]: http://www.youtube.com/watch?v=w3CgUmzl4sk
