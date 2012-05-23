@@ -105,6 +105,9 @@ The data I used for this, along with the (rough, undocumented, partial) code, ar
 
 There are a few obvious ways that this could be improved. It wouldn't be hard to include information about the song, such as gender of the performer, language of the lyrics, or position in the running order. People have suggested that all of these could have an effect on a song's chances, and it would be reasonably easy to test this hypothesis.
 
+---
+
+*Update:* I've done some more calculations now that the results of the first semifinal are out, and written about them [here][next].
 
 [^1]: Strictly speaking, Eurovision participation is open to all countries within the European Broadcast Area, or members of the Council of Europe. This leads to a rather loose definition of Europe which includes large chunks of North Africa, the Middle East and Central Asia.
 
