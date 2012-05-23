@@ -7,6 +7,10 @@ tags: [eurovision, mcmc]
 ---
 {% include JB/setup %}
 
+*Update:* I've done some more calculations now that the results of the first semifinal are out, and written about them [here][next].
+
+---
+
 This Saturday, the final of the 57th Eurovision Song Contest will take place in Baku, Azerbaijan. To the uninitiated, it's quite hard to explain the cultural significance of Eurovision to Europe. On one level, it's a simple pop music contest, a throwback to the 1950s, when men wore tuxedos, fostering cultural unity seemed like a good way to stop World War III, and Luxembourg still had a shot at winning international competitions. On another level though, it's a fascinating insight into the complex interconnected web that is European geopolitics[^1].
 
 The system is relatively simple: each participating country sends a performer or group of performers with a three-minute pop song. Phone-in and text message votes in each country determine how that country's ranks the entrants (other than its own). These rankings are then translated into points; 12, 10, 8, 7, 6, 5, 4, 3, 2, 1 for the top ten.[^2] Points are tallied, and a winner is announced. Since 2004, the number of entrants has been too large for one contest, so semifinals have been held in the week before the contest, using the same rules.
@@ -135,3 +139,5 @@ There are a few obvious ways that this could be improved. It wouldn't be hard to
 [network]: /assets/images/eurovision/eurovisionfriends.png
 [semiquals]: /assets/images/eurovision/semiquals.png
 [winner]: /assets/images/eurovision/winner.png
+
+[next]: /nerdery/2012/05/23/eurovision-statistics-post-semifinal-update/
