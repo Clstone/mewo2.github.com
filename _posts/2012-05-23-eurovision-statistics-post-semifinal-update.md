@@ -9,6 +9,8 @@ tags: [eurovision]
 
 This is a follow-up to my [previous post][previous] on simulating Eurovision Song Contest voting using Markov Chain Monte Carlo techniques. You might want to read that first to get some background.
 
+*Update:* I've done some more calculations now that the results of the second semifinal are out, and written about them [here][next].
+
 ### So how'd we do?
 
 Last time I showed a model that gave probabilistic predictions for the Eurovision Song Contest, based on evidence from previous years' voting. The first semifinal is over now, so we can see how well the model did predictively. Unfortunately, the full scores for the semifinals won't be released until after the final, but we can still look at which countries qualified, and make a judgment from that.
@@ -53,7 +55,10 @@ I'm unlikely to make significant changes to the model before the final, but I am
 
 Finally, I should make some predictions for the second semifinal. On the basis of the model runs so far, it looks like Bosnia-Herzegovina (77%), Serbia (72%), Turkey (70%) and Macedonia (66%) are fairly safe bets. The next four, Georgia (60%), Belarus (58%), Ukraine (56%) and Slovakia (56%) are reasonably likely as well. The final two slots go to Estonia (55%) and Sweden (53%), but those are a bit shakier. I wouldn't be surprised to see something else come through from further down the table, maybe Croatia (51%) or Norway (50%).
 
+*Update:* I've done some more calculations now that the results of the first semifinal are out, and written about them [here][next].
+
 [previous]: /nerdery/2012/05/20/ive-got-eurosong-fever-ted/
+[next]: /nerdery/2012/05/24/eurovision-statistics-final-predictions/
 
 [qualmargins]: /assets/images/eurovision/qualmargins.png
 [winnerpostsf1]: /assets/images/eurovision/winnerpostsf1.png

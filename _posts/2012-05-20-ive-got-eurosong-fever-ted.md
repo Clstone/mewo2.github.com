@@ -7,7 +7,7 @@ tags: [eurovision, mcmc]
 ---
 {% include JB/setup %}
 
-*Update:* I've done some more calculations now that the results of the first semifinal are out, and written about them [here][next].
+*Update:* I've done some more calculations now that the results of the semifinals are out, and written about them [here][next] and [here][next2].
 
 ---
 
@@ -107,7 +107,7 @@ There are a few obvious ways that this could be improved. It wouldn't be hard to
 
 ---
 
-*Update:* I've done some more calculations now that the results of the first semifinal are out, and written about them [here][next].
+*Update:* I've done some more calculations now that the results of the semifinals are out, and written about them [here][next] and [here][next2].
 
 [^1]: Strictly speaking, Eurovision participation is open to all countries within the European Broadcast Area, or members of the Council of Europe. This leads to a rather loose definition of Europe which includes large chunks of North Africa, the Middle East and Central Asia.
 
@@ -144,3 +144,4 @@ There are a few obvious ways that this could be improved. It wouldn't be hard to
 [winner]: /assets/images/eurovision/winner.png
 
 [next]: /nerdery/2012/05/23/eurovision-statistics-post-semifinal-update/
+[next2]: /nerdery/2012/05/24/eurovision-statistics-final-predictions/
