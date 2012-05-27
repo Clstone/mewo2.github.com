@@ -7,7 +7,7 @@ tags: [eurovision]
 ---
 {% include JB/setup %}
 
-This is a follow-up to my previous [two][original] [posts][previous] on simulating Eurovision Song Contest voting using Markov Chain Monte Carlo techniques. You might want to read those first to get some background.
+This is part three of a series of posts describing a predictive model for the Eurovision Song Contest. The full set of posts can be found [here][ev].
 
 ### Keeping score
 
@@ -70,9 +70,17 @@ If any of these *don't* happen, then that might be a sign that something interes
 
 Sweden's going to win, unless it's Malta, or maybe somebody else. If you average together the taste in pop music of all of Europe, you get a Hungarian. Don't trust the scores on Saturday night, they're just toying with your emotions. Greeks and Cypriots love each other very much.
 
+---
+
+[Next post in the series][next]
+
+
 [^1]: p ≈ 0.03
 
 [^2]: This year's Turkish entry, Can Bonomo, is a Sephardic Jew, and will probably also get some significant votes from Israel. This isn't reflected in the model though; the friendship link from Israel to Turkey is actually slightly negative.
+
+[ev]: /tags.html#eurovision-ref
+[next]: /nerdery/2012/05/27/eurovision-statistics-after-the-final/
 
 [original]: /nerdery/2012/05/20/ive-got-eurosong-fever-ted/
 [previous]: /nerdery/2012/05/23/eurovision-statistics-post-semifinal-update/
